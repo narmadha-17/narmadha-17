@@ -2,7 +2,7 @@
 <h3 align="center">A enthusiastic engineering student with a passion for learning and personal growth.</h3>
 
 
-- 🌱 I’m currently learning **DevOps and MongoDB**
+- 🌱 I’m currently learning **Networking and MongoDB**
 
 - 👨‍💻 I'm interested in coding and drawing.
 
