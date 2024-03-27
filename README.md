@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  ">
-<a href="https://auth.geeksforgeeks.org/user/narmadha173" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="narmadhacs21" height="30" width="40" /></a>
+  
+<a href="https://auth.geeksforgeeks.org/user/narmadha173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="narmadhacs21" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/narmadhacs21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="narmadhacs21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/NARMADHA7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="narmadha7" height="30" width="40" /></a>
 
